@@ -1,4 +1,4 @@
-![](https://media1.tenor.com/images/0d4f2d490af1f5bc8184c8939c798b6f/tenor.gif?itemid=10017453)
+![](https://media1.tenor.com/images/0d4f2d490af1f5bc8184c8939c798b6f/tenor.gif?itemid=10017453 | width=100)
 ### Welcome to my GitHub 😁
 ![](https://komarev.com/ghpvc/?username=your-github-SageJacob&color=orange&size=1000)
 <!--
