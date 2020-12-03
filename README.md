@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-SageJacob&color=orange&size=100)
+![](https://komarev.com/ghpvc/?username=your-github-SageJacob&color=orange&size=1000)
 <!--
 **SageJacob/SageJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
