@@ -1,9 +1,11 @@
-![](https://media1.tenor.com/images/0d4f2d490af1f5bc8184c8939c798b6f/tenor.gif?itemid=10017453&width=10&height=10)
+
+<img src="https://media1.tenor.com/images/0d4f2d490af1f5bc8184c8939c798b6f/tenor.gif?itemid=10017453" width="250" height="250"/>
 ### Welcome to my GitHub 😁
 ![](https://komarev.com/ghpvc/?username=your-github-SageJacob&color=orange&size=1000)
 <!--
 **SageJacob/SageJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://github.com/SageJacob/ProgrammingProblems/blob/master/torb.gif)
+![](https://media1.tenor.com/images/0d4f2d490af1f5bc8184c8939c798b6f/tenor.gif?itemid=10017453)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
